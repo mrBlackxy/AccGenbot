@@ -12,7 +12,7 @@
   "env": {
     "TOKEN": {
       "description": "Bot Token, Get It From @BotFather.",
-      "value": ""
+      "1693884887:AAGz3_fIfA9S-jgTTbho5pK_amwF_FVyudY": ""
     },
     "CHANNEL_ID": {
       "description": "Permanent Telegram Chat ID Of Your Force-Sub Channel.",
@@ -20,11 +20,11 @@
     },
     "CHANNEL_USERNAME": {
       "description": "Username Of Your Force-Sub Channel.",
-      "value": ""
+      "@BLACKSCRIPTERS": ""
     },
     "ACC_NAME": {
       "description": "Name Of The Account The Bot Generates.",
-      "value": ""
+      "ZEE5": ""
     },
     "LOGS": {
       "description": "Permanent Telegram Chat ID Of Bot Logs (Leave as it is for turning off).",
